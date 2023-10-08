@@ -1,0 +1,9 @@
+* trivial-deprecate
+
+A library implementing a simple deprecation mechanism
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/Shinmera/trivial-deprecate.git |
+| commit  | 420430c                                               |
+| systems | trivial-deprecate                                     |
+|---------+-------------------------------------------------------|

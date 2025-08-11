@@ -4,6 +4,6 @@ A library implementing a simple deprecation mechanism
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/trivial-deprecate.git |
-| commit  | d142cb6                                               |
+| commit  | 7d00c79                                               |
 | systems | trivial-deprecate                                     |
 |---------+-------------------------------------------------------|

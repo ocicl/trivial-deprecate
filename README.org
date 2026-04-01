@@ -7,3 +7,4 @@ A library implementing a simple deprecation mechanism
 | commit  | 9bf326b                                               |
 | systems | trivial-deprecate                                     |
 |---------+-------------------------------------------------------|
+ 
